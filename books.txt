@@ -1,0 +1,8 @@
+Harry Potter And The Sorcerer's Stone ,J.K. Rowling,1997,12.62
+Harry Potter And The Chamber of Secrets,J.K. Rowling ,1998,11.74
+Harry Potter And The Prisoner of Azkaban,J.K. Rowling,14,0.72
+Harry Potter And The Goblet of Fire,J.K. Rowling,11,0.93
+Harry Potter And The Order of Phoenix,J.K. Rowling,2003,13.64
+Harry Potter And The Half-Blood Prince,J.K. Rowling,2005,14.12
+Harry Potter And The Deathly Hallows,J.K. Rowling,2007,12.47
+Harry Potter And The Cursed Child,J.K. Rowling,2016,12.64
